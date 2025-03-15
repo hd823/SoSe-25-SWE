@@ -1,7 +1,7 @@
 # SoSe-25-SWE
 Aufgabe: Beschreibung im Use Case Template
 
-## Use Case 1
+
 ### Name und Identifikationsnummer
   UC 1.03: Alarm bei zu hoher Herzfrequenz 
   
